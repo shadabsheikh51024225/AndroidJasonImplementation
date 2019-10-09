@@ -1,0 +1,19 @@
+{
+  "FirstName": "shadab",
+  "address": {
+    "city": "India",
+    "country": "indore"
+  },
+  "age": 29,
+  "familyMembers": [
+    {
+      "age": 26,
+      "Role": "sister"
+    },
+    {
+      "age": 24,
+      "Role": "brother"
+    }
+  ],
+  "mail": "shadabshiekh07@gmai.com"
+}
